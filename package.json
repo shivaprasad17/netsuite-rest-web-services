@@ -2,6 +2,10 @@
   "name": "netsuite-rest-web-services",
   "version": "1.0.3",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivaprasad17/netsuite-rest-web-services"
+  },
   "keywords": [
     "netsuite",
     "suitetalk",
@@ -17,7 +21,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
-    "crypto": "^1.0.1",
     "oauth-1.0a": "^2.2.6"
   }
 }

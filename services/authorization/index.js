@@ -1,5 +1,4 @@
 const OAuth = require('oauth-1.0a');
-const crypto = require('crypto');
 
 exports.axiosOptions = (config) => {
     const accountName=config.account_id.toLowerCase().replace("_", "-")
