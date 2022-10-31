@@ -1,0 +1,23 @@
+{
+  "name": "netsuite-rest-web-services",
+  "version": "1.0.3",
+  "description": "",
+  "keywords": [
+    "netsuite",
+    "suitetalk",
+    "rest",
+    "web",
+    "services"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiva Prasad Gunishetti <sp0652800@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto": "^1.0.1",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
